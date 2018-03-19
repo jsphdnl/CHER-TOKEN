@@ -1,2 +1,14 @@
 # CHER-TOKEN
-Smart contracts for CHER Token
+ERC-20 Smart contracts for CHER Token
+
+## Tokenomics
+* __TOKEN NAME__: CHER
+* __TOKEN SUPPLY__: 300,000,000
+* __TOKEN FOR IMMEDIATE SALE__: 200,000,000
+* __PRE – ICO__: 30,000,000
+* __RETAINED BY THE DEV TEAM__: 100,000,000
+* __TOKEN TO BE RELEASED IN STAGES__ : 160,000.000
+* __REFERRAL/BOUNTY__: 10,000,000
+* __CURRENCY ACCEPTED__: ETH, BTC and LITECOIN
+* __MANAGED BY__: Pan Pacific Finance Group (PPFG Land Pte Ltd)
+* __ISSUED BY__: Pan Pacific Finance Group
